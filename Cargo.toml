@@ -1,0 +1,6 @@
+[package]
+name = "yt_tcp_daemon"
+version = "0.1.0"
+edition = "2021"
+
+#RUSTFLAGS='-C target-feature=+crt-static' cargo build --target=x86_64-unknown-linux-musl --release
